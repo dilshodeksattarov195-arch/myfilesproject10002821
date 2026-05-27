@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuetch",
+        "uuid": 14437878,
+        "checksum": "5t1v1a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
